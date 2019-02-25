@@ -15,7 +15,7 @@ import Drawer from "@material-ui/core/Drawer";
 import Menu from "@material-ui/icons/Menu";
 // core components
 import headerStyle from "assets/jss/material-kit-react/components/headerStyle.jsx";
-import profileImage from "assets/img/faces/avatar.jpg";
+import profileImage from "assets/img/faces/card-profile2-square.jpg";
 
 class Header extends React.Component {
   constructor(props) {

@@ -78,7 +78,7 @@ function HeaderLinks({...props}) {
                 >
                     <Button
                         color="transparent"
-                        href="/"
+                        href="/article"
                         target="_blank"
                         className={classes.navLink}
                     >
